@@ -1,0 +1,6 @@
+git status
+git add..
+git clone
+git diff
+
+change1
